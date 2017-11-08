@@ -88,7 +88,7 @@ header .profile{
 }
 .video_section .video{
 	height: 460px;
-	width: 770px;
+	width: 100%;
 }
 .video_section .video iframe{
 	width: 100%;
